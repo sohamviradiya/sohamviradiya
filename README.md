@@ -1,7 +1,7 @@
-### Hello there 🌌!
-My name is Soham Viradiya and I am presently pursuing a Bachelor's degree in Information and Communication Technology at [Dhirubhai Ambani Institute of Information and Communication Technology](https://www.daiict.ac.in).
+# Hello there 🌌!
 
-I am Interested in the fields of fintech and web development.
+
+> I, Soham Viradiya, doth presently embark upon a quest to attain a Bachelor's degree in the noble realm of Information and Communication Technology, with a special fondness for the enigmatic TypeScript. My heart's true passion doth lie within the domains of financial technology and the art of web development.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sohamviradiya&show_icons=true&theme=transparent)
 
@@ -32,14 +32,23 @@ I am Interested in the fields of fintech and web development.
 
 ## Repositories:
 
-### Chat Application
-[![Nyarlathotep](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=nyarlathotep&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/nyarlathotep)
-
-### Blog Application
-[![Beleriand](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=Beleriand&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/Beleriand)
-
+<table>
+<tr>
+<td>
+  
 ### Stock Market Simulator
 [![Combine-bonds](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=combine-bonds&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/combine-bonds)
 
 ### Memory Card Game
 [![Silmarillion](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=Silmarillion&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/Silmarillion)
+</td>
+<td>
+  
+### Chat Application
+[![Nyarlathotep](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=nyarlathotep&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/nyarlathotep)
+
+### Blog Application
+[![Beleriand](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=Beleriand&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/Beleriand)
+</td>
+</tr>
+</table>
