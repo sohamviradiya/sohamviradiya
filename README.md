@@ -38,8 +38,8 @@ I am Interested in the fields of fintech and web development.
 ### Blog Application
 [![Beleriand](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=Beleriand&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/Beleriand)
 
-<!-- ### Stock Market Simulator
+### Stock Market Simulator
 [![Combine-bonds](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=combine-bonds&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/combine-bonds)
--->
+
 ### Memory Card Game
 [![Silmarillion](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=Silmarillion&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/Silmarillion)
