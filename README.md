@@ -3,7 +3,7 @@
 
 > I, Soham Viradiya, doth presently embark upon a quest to attain a Bachelor's degree in the noble realm of Information and Communication Technology, with a special fondness for the enigmatic TypeScript. My heart's true passion doth lie within the domains of financial technology and the art of web development.
 
- [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sohamviradiya&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/sohamviradiya/)
+ [![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohamviradiya&theme=transparent)](https://github.com/sohamviradiya/)
 
 ## Top Languages: 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamviradiya&show_icons=true&theme=transparent&layout=donut)
