@@ -10,24 +10,79 @@
 
 ## Tech Stack:
 
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=black)
+<table>
+<tr>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <br>React</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="React" />
+        <br>Next.js</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="React" />
+        <br>Material UI</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="React" />
+        <br>Bootstrap</br>
+</td>
+</tr>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black)
+<tr>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
+        <br>Webpack</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+        <br>Node.js</br>
+</td>
 
-![Node JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express JS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Nest JS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=black)
-![Next JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+        <br>Express</br>
+</td>
 
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+        <br>NestJS</br>
+</td>
+</tr>
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+<tr>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+        <br>PostgreSQL</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="PostgreSQL" />
+        <br>Firebase</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://profilinator.rishav.dev/skills-assets/jest.svg" width="48" height="48" alt="Jest" />
+        <br>Jest</br>
+        </td>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+       <!-- <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+        <br>Redux</br> -->
+</td>
+</table>
 
-![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=black)
 
 ## Repositories:
 
