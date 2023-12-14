@@ -1,53 +1,81 @@
 # Hello there 🌌!
 
-
 > I, Soham Viradiya, doth presently embark upon a quest to attain a Bachelor's degree in the noble realm of Information and Communication Technology, with a special fondness for the enigmatic TypeScript. My heart's true passion doth lie within the domains of financial technology and the art of web development.
 
- [![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohamviradiya&theme=transparent)](https://github.com/sohamviradiya/)
+[![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohamviradiya&theme=transparent)](https://github.com/sohamviradiya/)
 
-## Top Languages: 
+## Top Languages:
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamviradiya&show_icons=true&theme=transparent&layout=donut)
 
 ## Tech Stack:
 
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=black)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black)
-
-![Node JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express JS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Nest JS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=black)
-![Next JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=black)
-
-## Repositories:
-
 <table>
 <tr>
-<td>
-  
-### Stock Market Simulator
-[![Combine-bonds](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=combine-bonds&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/combine-bonds)
-
-### Memory Card Game
-[![Silmarillion](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=Silmarillion&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/Silmarillion)
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" padding="5" alt="JavaScript" />
+        <br>JavaScript</br>
 </td>
-<td>
-  
-### Chat Application
-[![Nyarlathotep](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=nyarlathotep&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/nyarlathotep)
-
-### Blog Application
-[![Beleriand](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=Beleriand&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/Beleriand)
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=typescript" width="60" height="60" padding="5" alt="TypeScript" />
+        <br>TypeScript</br>
+</td>
+ <td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=webpack" width="60" height="60" padding="5" alt="Webpack" />
+        <br>Webpack</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://profilinator.rishav.dev/skills-assets/jest.svg" width="60" height="60" padding="5" alt="Jest" />
+        <br>Jest</br>
 </td>
 </tr>
+
+<tr>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=react" width="60" height="60" padding="5" alt="React" />
+        <br>React</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+       <img src="https://skillicons.dev/icons?i=redux" width="60" height="60" padding="5" alt="Redux" />
+        <br>Redux</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=materialui" width="60" height="60" padding="5" alt="React" />
+        <br>MUI</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" padding="5" alt="React" />
+        <br>Next.js</br>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" padding="5" alt="Node.js" />
+        <br>Node.js</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=express" width="60" height="60" padding="5" alt="Express" />
+        <br>Express</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="60" height="60" padding="5" alt="NestJS" />
+        <br>NestJS</br>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" padding="5" alt="MongoDB" />
+      <br>MongoDB</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" padding="5" alt="PostgreSQL" />
+        <br>PostgreSQL</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" padding="5" alt="PostgreSQL" />
+        <br>Firebase</br>
+</td>
+
 </table>
