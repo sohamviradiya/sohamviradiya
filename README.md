@@ -8,6 +8,29 @@
 ## Top Languages: 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamviradiya&show_icons=true&theme=transparent&layout=donut)
 
+## Repositories:
+
+<table>
+<tr>
+<td>
+  
+### Stock Market Simulator
+[![Combine-bonds](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=combine-bonds&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/combine-bonds)
+
+### Memory Card Game
+[![Silmarillion](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=Silmarillion&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/Silmarillion)
+</td>
+<td>
+  
+### Chat Application
+[![Nyarlathotep](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=nyarlathotep&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/nyarlathotep)
+
+### Blog Application
+[![Beleriand](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=Beleriand&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/Beleriand)
+</td>
+</tr>
+</table>
+
 ## Tech Stack:
 
 <table>
@@ -84,25 +107,3 @@
 </table>
 
 
-## Repositories:
-
-<table>
-<tr>
-<td>
-  
-### Stock Market Simulator
-[![Combine-bonds](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=combine-bonds&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/combine-bonds)
-
-### Memory Card Game
-[![Silmarillion](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=Silmarillion&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/Silmarillion)
-</td>
-<td>
-  
-### Chat Application
-[![Nyarlathotep](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=nyarlathotep&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/nyarlathotep)
-
-### Blog Application
-[![Beleriand](https://github-readme-stats.vercel.app/api/pin/?username=sohamviradiya&repo=Beleriand&show_icons=true&theme=transparent)](https://github.com/sohamviradiya/Beleriand)
-</td>
-</tr>
-</table>
