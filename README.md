@@ -29,7 +29,7 @@
         <br>MUI</br>
 </td>
 <td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" padding="5" alt="React" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" padding="5" alt="React"  />
         <br>Bootstrap</br>
 </td>
 </tr>
