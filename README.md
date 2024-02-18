@@ -1,12 +1,14 @@
 # Hello there 🌌!
 
-> I, Soham Viradiya, doth presently embark upon a quest to attain a Bachelor's degree in the noble realm of Information and Communication Technology, with a special fondness for the enigmatic TypeScript. My heart's true passion doth lie within the domains of financial technology and the art of web development.
-
 [![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohamviradiya&theme=transparent)](https://github.com/sohamviradiya/)
+
+![Snake](https://github.com/sohamviradiya/sohamviradiya/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## Top Languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamviradiya&show_icons=true&theme=transparent&layout=donut)
+
+
 
 ## Tech Stack:
 
@@ -28,9 +30,6 @@
         <img src="https://profilinator.rishav.dev/skills-assets/jest.svg" width="60" height="60" padding="5" alt="Jest" />
         <br>Jest</br>
 </td>
-</tr>
-
-<tr>
 <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=react" width="60" height="60" padding="5" alt="React" />
         <br>React</br>
@@ -43,13 +42,13 @@
         <img src="https://skillicons.dev/icons?i=materialui" width="60" height="60" padding="5" alt="React" />
         <br>MUI</br>
 </td>
+</tr>
+
+<tr>
 <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" padding="5" alt="React" />
         <br>Next.js</br>
 </td>
-</tr>
-
-<tr>
 <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" padding="5" alt="Node.js" />
         <br>Node.js</br>
@@ -62,9 +61,6 @@
         <img src="https://skillicons.dev/icons?i=nestjs" width="60" height="60" padding="5" alt="NestJS" />
         <br>NestJS</br>
 </td>
-</tr>
-
-<tr>
 <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" padding="5" alt="MongoDB" />
       <br>MongoDB</br>
@@ -77,5 +73,5 @@
         <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" padding="5" alt="PostgreSQL" />
         <br>Firebase</br>
 </td>
-
+</tr>
 </table>
