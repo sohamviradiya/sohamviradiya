@@ -1,5 +1,13 @@
 # Hello there 🌌!
 
+
+
+#### Writing code is easy.
+
+#### Reading code is hard.
+
+#### Writing readable code is even harder.
+
 [![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohamviradiya&theme=transparent)](https://github.com/sohamviradiya/)
 
 ![Snake](https://github.com/sohamviradiya/sohamviradiya/blob/output/github-contribution-grid-snake-dark.svg)
