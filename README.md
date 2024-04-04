@@ -1,5 +1,6 @@
 # Hello there 🌌!
 
+### Vincit qui se vincit.
 
 [![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohamviradiya&theme=transparent)](https://github.com/sohamviradiya/)
 
@@ -9,7 +10,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamviradiya&show_icons=true&theme=transparent&layout=donut)
 
-
+### Igne natura renovatur integra.
 
 ## Tech Stack:
 
@@ -76,3 +77,5 @@
 </td>
 </tr>
 </table>
+
+### Flectere si nequeo superos, Acheronta movebo.
