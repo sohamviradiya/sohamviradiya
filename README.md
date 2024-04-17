@@ -1,18 +1,14 @@
 # Hello there 🌌!
 
-### Vincit qui se vincit.
+### If you ever want to read a good horror story, pick up a history book.
 
 [![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohamviradiya&theme=transparent)](https://github.com/sohamviradiya/)
 
 ![Snake](https://github.com/sohamviradiya/sohamviradiya/blob/output/github-contribution-grid-snake-dark.svg)
 
-## Qui se ultro morti offerant facilius reperiuntur quam qui dolorem patienter ferant.
-
 ## Top Languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamviradiya&show_icons=true&theme=transparent&layout=donut)
-
-### Igne natura renovatur integra.
 
 ## Tech Stack:
 
@@ -79,5 +75,3 @@
 </td>
 </tr>
 </table>
-
-### Flectere si nequeo superos, Acheronta movebo.
