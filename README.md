@@ -1,6 +1,6 @@
 # Hello there 🌌!
 
-### If you ever want to read a good horror story, pick up a history book.
+### Those who are heartless, once cared too much.
 
 [![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohamviradiya&theme=transparent)](https://github.com/sohamviradiya/)
 
