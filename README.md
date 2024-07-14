@@ -1,6 +1,6 @@
 # Hello there 🌌!
 
-### Those who are heartless, once cared too much.
+### The right man in the wrong place can make all the difference in the world.
 
 [![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohamviradiya&theme=transparent)](https://github.com/sohamviradiya/)
 
